@@ -3,7 +3,7 @@
 #### Software engineer
 
 
-An experienced software developer who loves to design and develop high maintainable applications. I have expertise in both front and back-end. On the frontend, I have knowledge and understanding of Angular and all ecosystem. On the back-end, my experience consists PHP and Laravel.
+An experienced software developer who loves to design and develop high maintainable applications. I have expertise in both front and back-end. On the frontend, I have knowledge and understanding of Angular and all ecosystem, Vue, React. On the back-end, my experience consists PHP and Laravel.
 
 ![CSS](https://img.shields.io/badge/-CSS-05e273)	![HTML](https://img.shields.io/badge/-HTML-05e273)	![Laravel](https://img.shields.io/badge/-Laravel-05e273)	![MySQL](https://img.shields.io/badge/-MySQL-05e273)	![PHP](https://img.shields.io/badge/-PHP-05e273)	![SASS](https://img.shields.io/badge/-SASS-05e273)	![Angular](https://img.shields.io/badge/-Angular-05e273)	![RxJs](https://img.shields.io/badge/-RxJs-05e273)	![TypeScript](https://img.shields.io/badge/-TypeScript-05e273)
 
