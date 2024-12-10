@@ -7,7 +7,7 @@ An experienced software developer who loves to design and develop high maintaina
 
 ![CSS](https://img.shields.io/badge/-CSS-05e273)	![HTML](https://img.shields.io/badge/-HTML-05e273)	![Laravel](https://img.shields.io/badge/-Laravel-05e273)	![MySQL](https://img.shields.io/badge/-MySQL-05e273)	![PHP](https://img.shields.io/badge/-PHP-05e273)	![SASS](https://img.shields.io/badge/-SASS-05e273)	![Angular](https://img.shields.io/badge/-Angular-05e273)	![RxJs](https://img.shields.io/badge/-RxJs-05e273)	![TypeScript](https://img.shields.io/badge/-TypeScript-05e273)
 
-📫 You can reach me at uros.mrak@tretton37.com
+📫 You can reach me at uros.mrak@gmail.com
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=umrak11&theme=dark&&date_format=M%20j%5B%2C%20Y%5D&background=0C0C91&border=198754&ring=198754&fire=198754&currStreakLabel=198754)
 
